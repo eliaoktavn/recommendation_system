@@ -1,11 +1,11 @@
-# Final Project: RMT-028 Group 001
+# Hacktiv8 Final Project
    ![Pikrlogo](https://github.com/FTDS-assignment-bay/p2-final-project-ftds-028-rmt-group-001/blob/main/logoPickr.png)
 
 ## 🚨Group Members🚨:
-- Destriana Ramadani, enrolled as Data Engineer (📝[Github](https://github.com/DestrianaR), 📧[LinkedIn](https://www.linkedin.com/in/destriana-ramadani-6425aa284/))
-- Elia Oktaviani, enrolled as Data Analyst (📝[Github](https://github.com/eliaoktavn), 📧[LinkedIn](https://www.linkedin.com/in/elia-oktaviani/))
-- Gita Pramoedya Sastri, enrolled as Data Scientist (📝[Github](https://github.com/gitasastri), 📧[LinkedIn](https://www.linkedin.com/in/gita-pramoedya-sastri/))
-- Wilona Natalie, enrolled as Data Scientist (📝[Github](https://github.com/wilonatalie), 📧[LinkedIn](https://www.linkedin.com/in/wilonatalie/))
+- Destriana Ramadani, enrolled as Data Engineer
+- Elia Oktaviani, enrolled as Data Analyst 
+- Gita Pramoedya Sastri, enrolled as Data Scientist
+- Wilona Natalie, enrolled as Data Scientist
 
 ## 📢 Project Overview
 
